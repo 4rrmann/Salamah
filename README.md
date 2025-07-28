@@ -10,4 +10,5 @@
 * Built for low-power devices in crisis zones
 
 "Salamah" means safety and wellbeing , a name that reflects our mission:
+
 **to protect, reconnect, and serve the displaced with dignity.**
