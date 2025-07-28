@@ -8,7 +8,6 @@
 * Optional vulnerability tagging for prioritizing urgent cases
 * Secure syncing when internet is available
 * Built for low-power devices in crisis zones
-* 
-"Salamah" means safety and wellbeing , a name that reflects our mission:
 
+"Salamah" means safety and wellbeing , a name that reflects our mission:
 **to protect, reconnect, and serve the displaced with dignity.**
